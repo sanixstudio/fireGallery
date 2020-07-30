@@ -1,6 +1,7 @@
 :root {
     --textColor: #4d4d4d;
     --themColor: #4181e1;
+    --hoverColor: #5997f3;
 }
 
 body {
@@ -30,4 +31,35 @@ body {
 
 .title P {
     font-size: 1.2rem;
+}
+
+.uploadForm {
+    text-align: center;
+}
+
+.uploadForm input[type="file"] {
+    display: none;
+}
+
+.uploadForm .uploadBtn {
+    height: 50px;
+    padding: 5px 15px;
+    border-radius: 50%;
+    font-size: 2rem;
+    cursor: pointer;
+    color: #fff;
+    background: var(--themColor);
+}
+
+.uploadForm .uploadBtn:hover {
+    background-color: var(--hoverColor);
+}
+
+.fileName {
+    padding: 20px 0;
+}
+
+.error {
+    padding: 20px 0;
+    color: rgb(255, 81, 0);
 }
