@@ -1,11 +1,12 @@
 import React from "react";
 import "./App.css";
+import Title from "./components/Title/Title";
 
 function App() {
     return (
-        <>
-            <h1>Fire Gallery</h1>
-        </>
+        <div className="App">
+            <Title />
+        </div>
     );
 }
 
