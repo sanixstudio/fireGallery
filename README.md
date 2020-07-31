@@ -23,7 +23,8 @@ This is fully front-end REACT project supported by Firebase storage and database
 
 ## Installation
 
-1. First either clone the repo using the command in the terminal `git clone https://github.com/adnanniaz77/fireGallery.git` or <br />
+1. First either clone the repo using the command in the terminal <br />
+   `git clone https://github.com/adnanniaz77/fireGallery.git` or <br />
    download the whole repo to your local system
 
 2. After cloning or downloading the repo, open the project folder with your favorite editor (Visual Studio Code recommended) and run command `npm install` in the terminal to install the required npm packages.
