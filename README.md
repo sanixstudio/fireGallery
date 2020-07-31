@@ -7,6 +7,10 @@ To view in Action [FireGallery](https://csb-cg1ur.netlify.app/)
 
 This is fully front-end REACT project supported by Firebase storage and database. With the help of file input a user can select either "png" or "jpeg" type of images and upload them to the live FireBase storage. All the images are then displayed on the screen once thery are save in the database. All the CSS styling is custom and fully responsive for almost all devices. For animation and transition an external library [(motion-framer)](https://www.framer.com/motion/) is used.
 
+## Snap Shot
+
+![Image of Project](public/readme-resources/project-snapshot.png)
+
 ## Tool Used
 
 #### Frameword/Librar: REACT <br/>
@@ -27,7 +31,8 @@ This is fully front-end REACT project supported by Firebase storage and database
    `git clone https://github.com/adnanniaz77/fireGallery.git` or <br />
    download the whole repo to your local system
 
-2. After cloning or downloading the repo, open the project folder with your favorite editor (Visual Studio Code recommended) and run command `npm install` in the terminal to install the required npm packages.
+2. After cloning or downloading the repo, open the project folder with your favorite editor (Visual Studio Code <br />
+   recommended) and run command `npm install` in the terminal to install the required npm packages.
 
 In the project directory, you can run:
 
