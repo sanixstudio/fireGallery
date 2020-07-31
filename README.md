@@ -1,6 +1,6 @@
 # FireGallery REACT and Firebase Storage/Database Mini Project
 
-This project is Hosted on Heroku, here is the live link [FireGAllery](http://abc.com)
+This project is Hosted on Heroku, here is the live link [FireGallery](http://abc.com)
 
 ## Project Overiew
 
