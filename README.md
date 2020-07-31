@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# FireGallery REACT and Firebase Storage/Database Mini Project
+
+This project is Hosted on Heroku, here is the live link [FireGAllery](http://abc.com)
+
+## Project Overiew
+
+This is fully front-end REACT project supported by Firebase storage and database. With the help of file input a user can select either "png" or "jpeg" type of images and upload them to the live FireBase storage. All the images are then displayed on the screen once thery are save in the database. All the CSS styling is custom and fully responsive for almost all devices. For animation and transition an external library [(motion-framer)](https://www.framer.com/motion/) is used.
+
+### Tool Used
+
+#### Frameword/Librar: REACT <br/>
+#### Lanuage: JSX / javaScript <br />
+#### Styling: CSS/CSS3 <br />
+#### Animation: Motion-framer
+#### Storage: FireStore <br />
+#### Database: Firebase <br />
 
 ## Available Scripts
 
@@ -37,32 +52,4 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
