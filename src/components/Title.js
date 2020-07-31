@@ -5,10 +5,7 @@ export default function Title() {
         <div className="title">
             <h1>Fire Gallery</h1>
             <h2>Your Images</h2>
-            <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                Distinctio, quibusdam?
-            </p>
+            <p>You can save and view you Image here</p>
         </div>
     );
 }
