@@ -1,6 +1,7 @@
 # FireGallery REACT and Firebase Storage/Database Mini Project
 
-This project is Hosted on Netlify, here is the live link [FireGallery](https://csb-cg1ur.netlify.app/)
+This project is Hosted on Netlify <br />
+To view in Action [FireGallery](https://csb-cg1ur.netlify.app/)
 
 ## Project Overiew
 
