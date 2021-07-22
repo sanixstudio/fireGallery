@@ -13,7 +13,7 @@ This is fully front-end REACT project supported by Firebase storage and database
 
 ## Tool Used
 
-#### Frameword/Librar: REACT <br/>
+#### Frameword/Library: REACT <br/>
 
 #### Lanuage: JSX / javaScript <br />
 
