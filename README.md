@@ -5,7 +5,7 @@ To view in Action [FireGallery](https://firegallery.netlify.app/)
 
 ## Project Overiew
 
-This is fully front-end REACT project supported by Firebase storage and database. With the help of file input a user can select either "png" or "jpeg" type of images and upload them to the live FireBase storage. All the images are then displayed on the screen once thery are save in the database. All the CSS styling is custom and fully responsive for almost all devices. For animation and transition an external library [(motion-framer)](https://www.framer.com/motion/) is used.
+This is a fully front-end REACT project supported by Firebase storage and database. With the help of file input, a user can select either "png" or "jpeg" type of images and upload them to the live FireBase storage. All the images are then displayed on the screen once they are saved in the database. All the CSS styling is custom and fully responsive for almost all devices. For animation and transition an external library [(motion-framer)](https://www.framer.com/motion/) is used.
 
 ## Snap Shot
 
